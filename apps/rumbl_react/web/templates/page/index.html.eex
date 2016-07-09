@@ -1,6 +1,3 @@
-<h1>App?</h1>
-<div id="root"></div>
-<h1>No App?</h1>
 <div class="jumbotron">
   <h2>Welcome to RumblReact!</h2>
   <p class="lead">RumblReacte out loud.</p>
