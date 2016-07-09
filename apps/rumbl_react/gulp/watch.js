@@ -2,5 +2,5 @@ var gulp = require('gulp');
 
 
 gulp.task('watch', function() {
-  return gulp.watch('./client/**/*.{js,scss}', ['build']);
+  return gulp.watch('./web/static/**/*.{js,scss}', ['build']);
 });

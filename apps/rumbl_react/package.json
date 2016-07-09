@@ -2,9 +2,6 @@
   "repository": {},
   "name": "rumbl-react",
   "version": "1.0.0",
-  "scripts": {
-    "start": "concurrently \"gulp\" \"mix phoenix.server\" "
-  },
   "author": "Michael Chavez <mchavez@space-rocket.com>",
   "license": "ISC",
   "dependencies": {
