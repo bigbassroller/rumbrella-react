@@ -1,6 +1,7 @@
 import { combineReducers } from 'redux';
 
 // Reducers
+// Import session here
 import userReducer from './user-reducer';
 import widgetReducer from './widget-reducer';
 import portfolioItemReducer from './portfolio-item-reducer';

@@ -37,7 +37,7 @@ config :rumbl_react, RumblReact.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "rumbl",
   password: "rumbl",
-  database: "rumbl_react_devJul9",
+  database: "rumbl_react",
   hostname: "localhost",
   pool_size: 10
 
